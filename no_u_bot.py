@@ -7,7 +7,7 @@ from credentials import TOKEN, KEY, BOTID, OWNERID
 client = discord.Client()
 
 responses = ['no u', 'NO UU', 'NO U',
-                  'nO U', 'NO U!!', '\nNO U\nO\n\nU']
+             'nO U', 'NO U!!', '\nNO U\nO\n\nU']
 
 triggers = ['no u', 'no you']
 
