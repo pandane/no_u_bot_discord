@@ -1,5 +1,5 @@
 # no u bot for discord
-Discord bot that replies with some variant of "no u" to any reply that contains "no u".
+An obnoxious discord bot that replies with some variant of "no u" to any channel message that contains "no u".
 
 ## How to set this up:
 ### 1. Install the rewritten discord.py dependency for python
