@@ -23,7 +23,10 @@ KEY = '<your-user-key>'
 BOTID = '<your-app-id>'
 OWNERID = '<your-user-id>'
 ```
-### 3. Run it
+### 3. Invite it to a server
+For the app to function, it must first be invited to a server. This is done by generating an OAuth2 URL using the Discord app tools. 
+
+### 4. Run it
 In the root of the project, use the command
 ``
 python3 no_u_bot_discord.py
